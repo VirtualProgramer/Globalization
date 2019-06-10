@@ -32,6 +32,9 @@
             <br />
             <br />
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+            <br />
+            <br />
+            <asp:Button ID="Button1" runat="server" Text="Button" />
         </div>
     </form>
 </body>
